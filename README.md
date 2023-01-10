@@ -1,5 +1,4 @@
-# index
-Links to all our instructions and code.
+# Links to all our instructions and code.
 
 firetruck: https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ
 
