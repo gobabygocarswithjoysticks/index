@@ -13,3 +13,11 @@ generalized circuit diagram: [https://docs.google.com/drawings/d/1BKDrhKLFc0Y3o9
 web programmer: [https://gobabygocarswithjoysticks.github.io/programmer/](https://gobabygocarswithjoysticks.github.io/programmer/)
 
 old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.com/gobabygocarswithjoysticks/classic)
+
+## Photos
+
+### firetruck
+![picture of boy in firetruck](firetruck.jpg)
+
+### jeep
+![picture of joystick modified jeep](jeep.jpg)
