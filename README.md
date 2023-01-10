@@ -1,4 +1,5 @@
 # Links to instructions and software for "go baby go" ride on cars modified to have joystick control.
+[GitHub for this page](https://github.com/gobabygocarswithjoysticks/index)
 
 ## Instructions
 
