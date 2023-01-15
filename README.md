@@ -1,5 +1,4 @@
 # Links to instructions and software for "go baby go" ride on cars modified to have joystick control.
-[GitHub for this page](https://github.com/gobabygocarswithjoysticks/index)
 
 ## Instructions
 
@@ -28,3 +27,5 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 
 ### jeep
 ![picture of joystick modified jeep](jeep.jpg)
+
+[GitHub for this page](https://github.com/gobabygocarswithjoysticks/index)
