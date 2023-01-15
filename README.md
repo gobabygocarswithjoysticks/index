@@ -15,6 +15,12 @@ web programmer: [https://gobabygocarswithjoysticks.github.io/programmer/](https:
 
 old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.com/gobabygocarswithjoysticks/classic)
 
+## CAD
+
+### joystick balls
+
+[Onshape CAD](https://cad.onshape.com/documents/0606b7a44a156562463230b4/w/c157c0319d8b261b7ab62dff/e/47171a79844294455bffba91)
+
 ## Photos
 
 ### firetruck
