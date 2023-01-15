@@ -28,4 +28,5 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 ### jeep
 ![picture of joystick modified jeep](jeep.jpg)
 
-[GitHub for this page](https://github.com/gobabygocarswithjoysticks/index)
+
+This page is on github here: [https://github.com/gobabygocarswithjoysticks/index](https://github.com/gobabygocarswithjoysticks/index)
