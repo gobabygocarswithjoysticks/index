@@ -18,9 +18,9 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 
 ## Joystick Balls (handle)
 
-* Large: [download STL](https://github.com/gobabygocarswithjoysticks/index/raw/main/ball-large.stl)
+* [Large](https://github.com/gobabygocarswithjoysticks/index/raw/main/ball-large.stl)
  
-* Medium: [download STL](https://github.com/gobabygocarswithjoysticks/index/raw/main/ball-medium.stl)
+* [Medium](https://github.com/gobabygocarswithjoysticks/index/raw/main/ball-medium.stl)
 
 * [Small](https://github.com/gobabygocarswithjoysticks/index/raw/main/ball-small.stl)
 
