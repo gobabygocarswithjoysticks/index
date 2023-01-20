@@ -24,6 +24,16 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 
 * Large: [download STL](https://github.com/gobabygocarswithjoysticks/index/raw/main/ball-small.stl), [CAD on Onshape](https://cad.onshape.com/documents/0606b7a44a156562463230b4/w/c157c0319d8b261b7ab62dff/e/5374dfde2b557ee7c8b2d179), [view on github](https://github.com/gobabygocarswithjoysticks/index/blob/main/ball-small.stl)
 
+## Joystick Holder
+
+* [Bottom](https://github.com/gobabygocarswithjoysticks/index/raw/main/joy-holder bottom.stl)
+
+* [Lid](https://github.com/gobabygocarswithjoysticks/index/raw/main/joy-holder lid.stl)
+
+* [Clamp](https://github.com/gobabygocarswithjoysticks/index/raw/main/joy-holder clamp.stl)
+
+[Onshape](https://cad.onshape.com/documents/6cf557827fa40e994b5bc5d8/w/0248049be91a11ab1b1efe99/e/c3181b8155bb2d289a3a4906)
+
 # Photos
 
 ## firetruck
