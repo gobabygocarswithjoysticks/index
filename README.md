@@ -26,11 +26,11 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 
 ## Joystick Holder
 
-* [Bottom](https://github.com/gobabygocarswithjoysticks/index/raw/main/joy-holder bottom.stl)
+* [Bottom](https://github.com/gobabygocarswithjoysticks/index/raw/main/joy-holder-bottom.stl)
 
-* [Lid](https://github.com/gobabygocarswithjoysticks/index/raw/main/joy-holder lid.stl)
+* [Lid](https://github.com/gobabygocarswithjoysticks/index/raw/main/joy-holder-lid.stl)
 
-* [Clamp](https://github.com/gobabygocarswithjoysticks/index/raw/main/joy-holder clamp.stl)
+* [Clamp](https://github.com/gobabygocarswithjoysticks/index/raw/main/joy-holder-clamp.stl)
 
 [Onshape](https://cad.onshape.com/documents/6cf557827fa40e994b5bc5d8/w/0248049be91a11ab1b1efe99/e/c3181b8155bb2d289a3a4906)
 
