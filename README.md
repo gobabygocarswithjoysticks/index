@@ -34,6 +34,12 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 
 [Onshape](https://cad.onshape.com/documents/6cf557827fa40e994b5bc5d8/w/0248049be91a11ab1b1efe99/e/c3181b8155bb2d289a3a4906)
 
+## PVC Tees
+
+[PVC Saddle Tee](https://github.com/gobabygocarswithjoysticks/index/raw/main/pvc-saddle-tee.stl)
+
+---
+
 # Photos
 
 ## firetruck
