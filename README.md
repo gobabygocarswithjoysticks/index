@@ -24,7 +24,7 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 
 * [Small](https://github.com/gobabygocarswithjoysticks/index/raw/main/ball-small.stl)
 
-[Onshape](https://cad.onshape.com/documents/0606b7a44a156562463230b4/w/c157c0319d8b261b7ab62dff/e/5374dfde2b557ee7c8b2d179)
+[Onshape](https://cad.onshape.com/documents/0606b7a44a156562463230b4/w/c157c0319d8b261b7ab62dff/e/5374dfde2b557ee7c8b2d179) (make a copy of the model to make custom sizes!)
 
 ## Joystick Holder
 
