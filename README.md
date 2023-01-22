@@ -2,11 +2,18 @@
 
 # Instructions
 
-jeep: [https://www.instructables.com/GoBabyGo-Make-a-Joystick-controlled-Ride-on-Car/](https://www.instructables.com/GoBabyGo-Make-a-Joystick-controlled-Ride-on-Car/)
+## jeep: 
+[https://www.instructables.com/GoBabyGo-Make-a-Joystick-controlled-Ride-on-Car/](https://www.instructables.com/GoBabyGo-Make-a-Joystick-controlled-Ride-on-Car/)
 
-firetruck: [https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ](https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ)
+## firetruck: 
+[https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ](https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ)
 
-generalized circuit diagram: [https://docs.google.com/drawings/d/1BKDrhKLFc0Y3o9NzUfYC5lIbI_fWCTx9kLZsG5Ts-0o/view](https://docs.google.com/drawings/d/1BKDrhKLFc0Y3o9NzUfYC5lIbI_fWCTx9kLZsG5Ts-0o/view)
+## generalized circuit diagram: 
+[https://docs.google.com/drawings/d/1BKDrhKLFc0Y3o9NzUfYC5lIbI_fWCTx9kLZsG5Ts-0o/view](https://docs.google.com/drawings/d/1BKDrhKLFc0Y3o9NzUfYC5lIbI_fWCTx9kLZsG5Ts-0o/view)
+
+# Questions or comments?
+### Please post [here](https://github.com/gobabygocarswithjoysticks/index/discussions/categories/support-and-troubleshooting) or email us at gobabygocarswithjoysticks@gmail.com
+
 
 # Software
 
