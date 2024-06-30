@@ -25,37 +25,41 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 
 ## Joystick Balls (handle)
 
-* [Large](https://github.com/gobabygocarswithjoysticks/index/raw/main/ball-large.stl)
+* [Large](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-balls/ball-large.stl)
  
-* [Medium](https://github.com/gobabygocarswithjoysticks/index/raw/main/ball-medium.stl)
+* [Medium](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-balls/ball-medium.stl)
 
-* [Small](https://github.com/gobabygocarswithjoysticks/index/raw/main/ball-small.stl)
+* [Small](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-balls/ball-small.stl)
 
 [Onshape](https://cad.onshape.com/documents/0606b7a44a156562463230b4/w/c157c0319d8b261b7ab62dff/e/5374dfde2b557ee7c8b2d179) (make a copy of the model to make custom sizes!)
 
 ## Joystick Holder
 
-* [Bottom](https://github.com/gobabygocarswithjoysticks/index/raw/main/joy-holder-bottom.stl)
+* [Bottom](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-holder/joy-holder-bottom.stl)
 
-* [Lid](https://github.com/gobabygocarswithjoysticks/index/raw/main/joy-holder-lid.stl)
+* [Lid](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-holder/joy-holder-lid.stl)
 
-* [Clamp](https://github.com/gobabygocarswithjoysticks/index/raw/main/joy-holder-clamp.stl)
+* [Clamp](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-holder/joy-holder-clamp.stl)
+
+* [Clip](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-holder/joy-holder-clip.stl) (optional, limits joystick to forwards and backwards only)
 
 [Onshape](https://cad.onshape.com/documents/b635ac829ab39856feba8a99/w/07b70b7662805e9b51c5965c/e/4f736c40741061401f9fab29)
 
 ## PVC Tees
 
-[PVC Saddle Tee](https://github.com/gobabygocarswithjoysticks/index/raw/main/pvc-saddle-tee.stl)
+[PVC Saddle Tee part 1](https://github.com/gobabygocarswithjoysticks/index/raw/main/pvc-tee/screw-saddle-tee-part-1.stl)
+
+[PVC Saddle Tee part 2](https://github.com/gobabygocarswithjoysticks/index/raw/main/pvc-tee/screw-saddle-tee-part-2.stl)
 
 ---
 
 # Photos
 
-## firetruck
-![picture of boy in firetruck](firetruck.jpg)
+## [firetruck](https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ)
+![picture of boy in firetruck](photos/firetruck.jpg)
 
-## jeep
-![picture of joystick modified jeep](jeep.jpg)
+## [jeep](https://www.instructables.com/GoBabyGo-Make-a-Joystick-controlled-Ride-on-Car/)
+![picture of joystick modified jeep](photos/jeep.jpg)
 
 
 ---
