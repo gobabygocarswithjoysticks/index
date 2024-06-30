@@ -41,7 +41,7 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 
 * [Clamp](https://github.com/gobabygocarswithjoysticks/index/raw/main/joy-holder-clamp.stl)
 
-[Onshape](https://cad.onshape.com/documents/6cf557827fa40e994b5bc5d8/w/0248049be91a11ab1b1efe99/e/c3181b8155bb2d289a3a4906)
+[Onshape](https://cad.onshape.com/documents/b635ac829ab39856feba8a99/w/07b70b7662805e9b51c5965c/e/4f736c40741061401f9fab29)
 
 ## PVC Tees
 
