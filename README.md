@@ -23,7 +23,7 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 
 # CAD
 
-## Joystick Balls (handle)
+## [Joystick Balls](https://github.com/gobabygocarswithjoysticks/index/tree/main/joystick-balls) (handle)
 
 * [Large](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-balls/ball-large.stl)
  
@@ -33,7 +33,7 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 
 [Onshape](https://cad.onshape.com/documents/0606b7a44a156562463230b4/w/c157c0319d8b261b7ab62dff/e/5374dfde2b557ee7c8b2d179) (make a copy of the model to make custom sizes!)
 
-## Joystick Holder
+## [Joystick Holder](https://github.com/gobabygocarswithjoysticks/index/tree/main/joystick-holder)
 
 * [Bottom](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-holder/joy-holder-bottom.stl)
 
@@ -45,7 +45,7 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 
 [Onshape](https://cad.onshape.com/documents/b635ac829ab39856feba8a99/w/07b70b7662805e9b51c5965c/e/4f736c40741061401f9fab29)
 
-## PVC Tees
+## [PVC Tees](https://github.com/gobabygocarswithjoysticks/index/tree/main/pvc-tee)
 
 [PVC Saddle Tee part 1](https://github.com/gobabygocarswithjoysticks/index/raw/main/pvc-tee/screw-saddle-tee-part-1.stl)
 
