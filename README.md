@@ -47,9 +47,9 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 
 ## [PVC Tees](https://github.com/gobabygocarswithjoysticks/index/tree/main/pvc-tee)
 
-[PVC Saddle Tee part 1](https://github.com/gobabygocarswithjoysticks/index/raw/main/pvc-tee/screw-saddle-tee-part-1.stl)
+[PVC Saddle Tee part 1](https://github.com/gobabygocarswithjoysticks/index/raw/main/pvc-tee/saddle-tee-part-1.stl)
 
-[PVC Saddle Tee part 2](https://github.com/gobabygocarswithjoysticks/index/raw/main/pvc-tee/screw-saddle-tee-part-2.stl)
+[PVC Saddle Tee part 2](https://github.com/gobabygocarswithjoysticks/index/raw/main/pvc-tee/saddle-tee-part-2.stl)
 
 ---
 
