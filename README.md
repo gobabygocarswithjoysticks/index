@@ -5,6 +5,8 @@
 ## jeep: 
 [https://www.instructables.com/GoBabyGo-Make-a-Joystick-controlled-Ride-on-Car/](https://www.instructables.com/GoBabyGo-Make-a-Joystick-controlled-Ride-on-Car/)
 
+The link above is currently out of date. Temporary link to updated/work in progress instructions: https://docs.google.com/document/d/1RHVrAkWGEfjWRzHnMl1gdjrIjJXBr14pojtLxGjQ4Rc/edit?usp=sharing
+
 ## firetruck: 
 [https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ](https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ)
 
