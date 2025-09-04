@@ -56,6 +56,12 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 # GBG-PCB
 ### [A circuit board for making joystick cars without any soldering](https://github.com/gobabygocarswithjoysticks/gbg-pcb)
 
+### [General instructions for using a GBG-PCB](https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/instructions)
+
+### [jeep](https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/car-specific/aosom-038-jeep/instructions)
+
+### [bumper car](https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/car-specific/zupapa-bumper-car/instructions)
+
 # Photos
 
 ## [firetruck](https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ)
