@@ -1,3 +1,5 @@
+# Go Baby Go Cars With Joysticks
+
 # Links to instructions and software for [Go Baby Go](https://health.oregonstate.edu/gobabygo) inspired ride on cars modified to have joystick control.
 
 # Instructions
@@ -18,6 +20,8 @@
 # Software
 
 ## web programmer: [https://gobabygocarswithjoysticks.github.io/programmer/](https://gobabygocarswithjoysticks.github.io/programmer/)
+
+new car code (uploaded by web programmer): [https://github.com/gobabygocarswithjoysticks/car-code](https://github.com/gobabygocarswithjoysticks/car-code)
 
 old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.com/gobabygocarswithjoysticks/classic)
 
