@@ -1,3 +1,5 @@
+# Go Baby Go Cars With Joysticks
+
 # Links to instructions and software for [Go Baby Go](https://health.oregonstate.edu/gobabygo) inspired ride on cars modified to have joystick control.
 
 # Instructions
