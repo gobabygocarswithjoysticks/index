@@ -19,6 +19,8 @@
 
 ## web programmer: [https://gobabygocarswithjoysticks.github.io/programmer/](https://gobabygocarswithjoysticks.github.io/programmer/)
 
+new car code (uploaded by web programmer): [https://github.com/gobabygocarswithjoysticks/car-code](https://github.com/gobabygocarswithjoysticks/car-code)
+
 old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.com/gobabygocarswithjoysticks/classic)
 
 # CAD
