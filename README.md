@@ -2,6 +2,8 @@
 
 # Links to instructions and software for [Go Baby Go](https://health.oregonstate.edu/gobabygo) inspired ride on cars modified to have joystick control.
 
+![gif of kid driving ride on toy firetruck with joystick](https://user-images.githubusercontent.com/59814881/187002286-f62c0120-1484-4a72-a127-d84a9a95eaf3.gif)
+
 # Instructions
 
 ## jeep: 
