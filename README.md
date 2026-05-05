@@ -6,18 +6,32 @@
 
 # Instructions
 
-## jeep: 
+## aosom jeep: 
 [https://www.instructables.com/GoBabyGo-Make-a-Joystick-controlled-Ride-on-Car/](https://www.instructables.com/GoBabyGo-Make-a-Joystick-controlled-Ride-on-Car/)
+(GoBabyGoCarsWithJoysticks & SERT FRC#2521)
 
 ## firetruck: 
-[https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ](https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ)
+[https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ](https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ) 
+(GoBabyGoCarsWithJoysticks)
 
 ## generalized circuit diagram: 
 [https://docs.google.com/drawings/d/1BKDrhKLFc0Y3o9NzUfYC5lIbI_fWCTx9kLZsG5Ts-0o/view](https://docs.google.com/drawings/d/1BKDrhKLFc0Y3o9NzUfYC5lIbI_fWCTx9kLZsG5Ts-0o/view)
+(GoBabyGoCarsWithJoysticks)
+
+## general instructions for using a GBG-PCB
+[https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/instructions](https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/instructions)
+(GoBabyGoCarsWithJoysticks)
+
+## aosom jeep GBG-PCB edition
+[https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/car-specific/aosom-038-jeep/instructions](https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/car-specific/aosom-038-jeep/instructions)
+(GoBabyGoCarsWithJoysticks)
+
+## zupapa bumper car GBG-PCB edition
+[https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/car-specific/zupapa-bumper-car/instructions](https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/car-specific/zupapa-bumper-car/instructions)
+(GoBabyGoCarsWithJoysticks)
 
 # Questions or comments?
 ### Please post [here](https://github.com/gobabygocarswithjoysticks/index/discussions/categories/support-and-troubleshooting) or email us at gobabygocarswithjoysticks@gmail.com
-
 
 # Software
 
@@ -74,17 +88,12 @@ This method of connecting a joystick works well for "bumper-car" style cars.
 * [Clip](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-holder/joy-holder-clip.stl) (optional, limits joystick to forwards and backwards only)
 
 
-
----
-
 # GBG-PCB
-### [A circuit board for making joystick cars without any soldering](https://github.com/gobabygocarswithjoysticks/gbg-pcb)
+## [A circuit board for making joystick cars without any soldering](https://github.com/gobabygocarswithjoysticks/gbg-pcb)
 
-### [General instructions for using a GBG-PCB](https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/instructions)
+### [Instructions for making a GBG-PCB](https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/how-to-make-boards)
 
-### [jeep](https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/car-specific/aosom-038-jeep/instructions)
-
-### [bumper car](https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/car-specific/zupapa-bumper-car/instructions)
+![gbg circuit board](https://raw.githubusercontent.com/gobabygocarswithjoysticks/gbg-pcb/main/photos/image0.jpg)
 
 # Photos
 
