@@ -57,6 +57,24 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 
 [PVC Saddle Tee part 2](https://github.com/gobabygocarswithjoysticks/index/raw/main/pvc-tee/saddle-tee-part-2.stl)
 
+## Joystick holder for adjustible arms
+
+Add a heatset insert to give this a threaded connection [https://www.mcmaster.com/93365A160/](https://www.mcmaster.com/93365A160/)
+
+Connect this joystick holder to the end of an adjustible arm (like for photography or holding a machinist's dial indicator)
+
+This method of connecting a joystick works well for "bumper-car" style cars.
+
+* [Bottom](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-holder/joy-hold-bottom-heatset.stl)
+
+* [Lid](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-holder/joy-holder-lid.stl)
+
+* [Clamp](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-holder/joy-holder-clamp.stl)
+
+* [Clip](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-holder/joy-holder-clip.stl) (optional, limits joystick to forwards and backwards only)
+
+
+
 ---
 
 # GBG-PCB
