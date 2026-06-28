@@ -12,7 +12,7 @@
 
 ## firetruck: 
 [https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ](https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ) 
-(GoBabyGoCarsWithJoysticks)
+(GoBabyGoCarsWithJoysticks & SERT FRC#2521)
 
 ## generalized circuit diagram: 
 [https://docs.google.com/drawings/d/1BKDrhKLFc0Y3o9NzUfYC5lIbI_fWCTx9kLZsG5Ts-0o/view](https://docs.google.com/drawings/d/1BKDrhKLFc0Y3o9NzUfYC5lIbI_fWCTx9kLZsG5Ts-0o/view)
