@@ -65,11 +65,15 @@ old code: [https://github.com/gobabygocarswithjoysticks/classic](https://github.
 
 [Onshape](https://cad.onshape.com/documents/b635ac829ab39856feba8a99/w/07b70b7662805e9b51c5965c/e/4f736c40741061401f9fab29)
 
+assemble with [these screws](https://www.mcmaster.com/95893A174/)
+
 ## [PVC Tees](https://github.com/gobabygocarswithjoysticks/index/tree/main/pvc-tee)
 
 [PVC Saddle Tee part 1](https://github.com/gobabygocarswithjoysticks/index/raw/main/pvc-tee/saddle-tee-part-1.stl)
 
 [PVC Saddle Tee part 2](https://github.com/gobabygocarswithjoysticks/index/raw/main/pvc-tee/saddle-tee-part-2.stl)
+
+assemble with [these screws](https://www.mcmaster.com/95893A174/)
 
 Combine with a 1/4-20 nut and a 3/4" long 1/4-20 bolt.
 
