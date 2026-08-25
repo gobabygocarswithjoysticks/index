@@ -30,6 +30,11 @@
 [https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/car-specific/zupapa-bumper-car/instructions](https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/car-specific/zupapa-bumper-car/instructions)
 (GoBabyGoCarsWithJoysticks)
 
+## flybar bumper car GBG-PCB edition
+[https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/car-specific/flybar-bumper-car/instructions](https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/car-specific/flybar-bumper-car/instructions)
+(GoBabyGoCarsWithJoysticks
+
+
 # Questions or comments?
 ### Please post [here](https://github.com/gobabygocarswithjoysticks/index/discussions/categories/support-and-troubleshooting) or email us at gobabygocarswithjoysticks@gmail.com
 
