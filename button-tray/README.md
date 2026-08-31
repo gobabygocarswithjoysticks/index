@@ -14,3 +14,4 @@ https://cad.onshape.com/documents/44f6483ba2e32fdd91e296c2/w/0c42af40c7736fb90c2
 * 4x 4-40 nut
 * 4x 4-40 1 ¼” machine screw with phillips head
 
+![alt text](image.png)

@@ -1,4 +1,4 @@
-## [PVC Tees](https://github.com/gobabygocarswithjoysticks/index/tree/main/pvc-tee)
+## PVC Tees 
 
 [PVC Saddle Tee part 1](https://github.com/gobabygocarswithjoysticks/index/raw/main/pvc-tee/saddle-tee-part-1.stl)
 
