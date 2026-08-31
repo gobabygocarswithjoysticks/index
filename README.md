@@ -8,11 +8,11 @@
 
 ## aosom jeep: 
 [https://www.instructables.com/GoBabyGo-Make-a-Joystick-controlled-Ride-on-Car/](https://www.instructables.com/GoBabyGo-Make-a-Joystick-controlled-Ride-on-Car/)
-(GoBabyGoCarsWithJoysticks & SERT FRC#2521)
+([SERT FRC#2521](https://www.sert2521.org/) & GoBabyGoCarsWithJoysticks)
 
 ## firetruck: 
 [https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ](https://drive.google.com/drive/folders/0B2HJnUrZAwYremFIYW55LVZ2TUU?resourcekey=0-zuVXEhaKQ2dVb-dyiEhITQ) 
-(GoBabyGoCarsWithJoysticks & SERT FRC#2521)
+([SERT FRC#2521](https://www.sert2521.org/) & GoBabyGoCarsWithJoysticks)
 
 ## generalized circuit diagram: 
 [https://docs.google.com/drawings/d/1BKDrhKLFc0Y3o9NzUfYC5lIbI_fWCTx9kLZsG5Ts-0o/view](https://docs.google.com/drawings/d/1BKDrhKLFc0Y3o9NzUfYC5lIbI_fWCTx9kLZsG5Ts-0o/view)
@@ -32,7 +32,7 @@
 
 ## flybar bumper car GBG-PCB edition
 [https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/car-specific/flybar-bumper-car/instructions](https://gobabygocarswithjoysticks.github.io/gbg-pcb/instructions/car-specific/flybar-bumper-car/instructions)
-(GoBabyGoCarsWithJoysticks
+(GoBabyGoCarsWithJoysticks)
 
 
 # Questions or comments?
@@ -84,7 +84,7 @@ Combine with a 1/4-20 nut and a 3/4" long 1/4-20 bolt.
 
 For easier adjustments, use a hex-head bolt and glue it to this [handwheel](https://github.com/gobabygocarswithjoysticks/index/blob/main/pvc-tee/1-4-20%20handwheel.stl)
 
-## Joystick holder for adjustible arms
+## Joystick holder for adjustable arms
 
 Add a heatset insert to give this a threaded connection [https://www.mcmaster.com/93365A160/](https://www.mcmaster.com/93365A160/)
 
@@ -100,6 +100,7 @@ This method of connecting a joystick works well for "bumper-car" style cars.
 
 * [Clip](https://github.com/gobabygocarswithjoysticks/index/raw/main/joystick-holder/joy-holder-clip.stl) (optional, limits joystick to forwards and backwards only)
 
+## [Adjustable arms for putting buttons on the headrest](https://github.com/gobabygocarswithjoysticks/index/tree/main/headrest-button-holder)
 
 # GBG-PCB
 ## [A circuit board for making joystick cars without any soldering](https://github.com/gobabygocarswithjoysticks/gbg-pcb)
