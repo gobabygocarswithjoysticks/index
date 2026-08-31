@@ -102,6 +102,8 @@ This method of connecting a joystick works well for "bumper-car" style cars.
 
 ## [Adjustable arms for putting buttons on the headrest](https://github.com/gobabygocarswithjoysticks/index/tree/main/headrest-button-holder)
 
+## [button tray](https://github.com/gobabygocarswithjoysticks/index/tree/main/button-tray)
+
 # GBG-PCB
 ## [A circuit board for making joystick cars without any soldering](https://github.com/gobabygocarswithjoysticks/gbg-pcb)
 
