@@ -8,8 +8,8 @@ https://cad.onshape.com/documents/44f6483ba2e32fdd91e296c2/w/0c42af40c7736fb90c2
 
 ### Hardware
 
-* 2x 50mm long M5 bolts
-* 2x M5 nuts
+* 2x 50mm long M5 bolts OR 2x 2inch long 10-32 bolts
+* 2x M5 nuts OR 2x 10-32 nuts
 * 2x ¾” x 1 ¾” piece of 1/16” rubber gasket sheet
 * 4x 4-40 nut
 * 4x 4-40 1 ¼” machine screw with phillips head
